@@ -1,3 +1,5 @@
+package ec.edu.espol.Seccion1.LSP;
+
 public class Diccionario extends ColeccionPython implements Mutable {
 
     @Override

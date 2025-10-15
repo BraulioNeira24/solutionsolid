@@ -1,3 +1,5 @@
+package ec.edu.espol.Seccion1.NO_LSP;
+
 public class Tupla extends ColeccionPython{
 
     @Override

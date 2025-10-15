@@ -1,3 +1,5 @@
+package ec.edu.espol.Seccion1.NO_SRP;
+
 public class Pokemon {
     private String nombre;
     private int vida;

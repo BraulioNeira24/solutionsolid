@@ -1,3 +1,5 @@
+package ec.edu.espol.Seccion1.DIP;
+
 public class Reproductor {
     private FormatoAudio formato;
 

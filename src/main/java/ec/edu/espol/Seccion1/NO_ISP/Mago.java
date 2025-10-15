@@ -1,3 +1,5 @@
+package ec.edu.espol.Seccion1.NO_ISP;
+
 public class Mago implements Jugador {
 
     @Override

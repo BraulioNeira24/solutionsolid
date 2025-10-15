@@ -1,3 +1,5 @@
+package ec.edu.espol.Seccion1.SRP;
+
 public class CentroPokemon {
     public void curarPokemon(Pokemon p){
         p.setVida(p.getVida() + 15);
